@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20허남식%20Profile!&fontSize=50)
 
 # 🔗 LINK
-- KDT 기업맞춤형 AI-X 교육과정 (824시간) : Python 기반의 Full-Stack 개발 및 **AI 모델링 및 LLM 학습일지**와 **프로젝트 협업** 공간
+- 시니어 어르신을 위한 맞춤형 AI Agent 활용 가이드 제작자,  허남식 AI 개발자, AI 혁신가, AI 기획자
 
 [![공부일지](https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huhnam59/ai)
 [![1차프로젝트](https://img.shields.io/badge/1st_PROJECT[프로젝트명]-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayk1220/1stTeamProject)
